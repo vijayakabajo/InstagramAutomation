@@ -1,5 +1,8 @@
-Automated Instagram Interaction Tool
+Automated Instagram Interaction Tool (Partially Done)
 This Node.js-based automation tool utilizes Puppeteer to log in to an Instagram account, search for a specified user profile, and like the top 10 posts of that user.
+However you can increase the number to like the post by making some minor changes in the code.
+
+Yet it is not fully optimized, as instagram is a dynamic page, the selectors are changing frequently however there are more option available in pupeteer i.e using timeouts but it is suggested that its not a feasable approach.
 
 
 Disclaimer
